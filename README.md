@@ -3,11 +3,9 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 
+- 💻 Bac 3 Informatique 
 
--💻Etudiant Bac 3 Informatique 
-
--
+- 🔥 
 
 ## 🚀 Langages et outils
 <p align="left">
