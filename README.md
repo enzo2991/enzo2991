@@ -1,5 +1,5 @@
 <h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Je suis Enzo2991 / Enzo Galantino</h1>
-<h3 align="center"><img src="https://icon-library.com/images/2018/10817147_belgium-flag-flaggen-belgien-png-png-download.png" width="45"/></h3>
+<h3 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/langfr-225px-Flag_of_Belgium_%28civil%29.svg.png" width="45"/></h3>
 
 <!--
 **enzo2991/enzo2991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
