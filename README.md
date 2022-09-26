@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+## 🚀 Langages et outils
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/ width="50"> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png width="50""/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="50"/> </a>
+    <a href ="https://www.lua.org/" target="_blank"><img src="https://www.lua.org/images/luaa.gif" width="50"></a>
+</p>
+## 📊 Mes statistiques Github
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=enzo2991&count_private=true&show_icons=true&theme=dark" align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enzo2991&layout=compact&langs_count=8&theme=algolia" align="center">
