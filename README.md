@@ -5,7 +5,7 @@
 
 - 💻 Bac 3 Informatique 
 
-- 🔥 
+- 🔥 Educateur Specialisé
 
 ## 🚀 Langages et outils
 <p align="left">
