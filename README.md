@@ -1,12 +1,6 @@
 <h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Je suis Enzo2991 / Enzo Galantino</h1>
 <h3 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/langfr-225px-Flag_of_Belgium_%28civil%29.svg.png" width="45"/></h3>
 
-## 🙋‍♂️ À propos de moi
-
-- 💻 Bac 3 Informatique 
-
-- 🔥 Educateur Specialisé
-
 ## 🚀 Langages et outils
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="50"/> </a>
